@@ -20,7 +20,7 @@ Topics of interest ⚡:
 
 I work as a teacher's assistant at the UNAM, teaching the topics of "History of Mexico" and "Mexican Economy and its characteristics" for the subject Resources and Needs of Mexico.
 
-I am an inveterate collector, and my tastes range from numismatics to toys from classic franchises (Star Wars, Back to the Future, etc.) ![tie-fighter](https://user-images.githubusercontent.com/25083316/170895916-f0d60d1d-e707-48ae-8c9e-487832fcf700.png)
+I am an inveterate collector, and my interests range from numismatics to toys from classic franchises (Star Wars, Back to the Future, etc.) ![tie-fighter](https://user-images.githubusercontent.com/25083316/170895916-f0d60d1d-e707-48ae-8c9e-487832fcf700.png)
 
 My favourite languages 💬:
 - Python
