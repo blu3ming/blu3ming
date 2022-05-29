@@ -12,7 +12,7 @@ I am a Computer Engineer graduated from the Faculty of Engineering of the Univer
 Topics of interest ⚡:
 - Development
 - Cloud
-- Pentesting
+- Pentesting ([my blog](https://blu3ming.github.io))
 - Economy
 - Finance
 - History
